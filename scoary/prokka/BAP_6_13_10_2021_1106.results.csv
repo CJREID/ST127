@@ -1,0 +1,3 @@
+"Gene","Non-unique Gene name","Annotation","Number_pos_present_in","Number_neg_present_in","Number_pos_not_present_in","Number_neg_not_present_in","Sensitivity","Specificity","Odds_ratio","Naive_p","Bonferroni_p","Benjamini_H_p"
+"group_9190","","hypothetical protein","28","0","0","272","100.0","100.0","inf","4.8920179308066265e-40","8.713662338352763e-36","8.713662338352763e-36"
+"gspE_2","","Putative type II secretion system protein E","28","14","0","258","100.0","94.85294117647058","inf","2.585931884859137e-29","4.606061873311094e-25","2.303030936655547e-25"
