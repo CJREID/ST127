@@ -2,9 +2,9 @@
 Scripts to run analysis associated with 2021 ST127 manuscript
 
 ## Overview
-The following repository allows conscientious readers of the ST58 manuscript to reproduce all the data processing, statistics and figures presented in the paper.
+The following repository allows conscientious readers of the ST127 manuscript to reproduce all the data processing, statistics and figures presented in the paper.
 
-It comprises two directories: __`scripts`__ and __`raw_data`__ (the contents of which should be self explanatory) and generates an __`outputs`__ folder with __`figures`__ and __`data`__ subdirectories.
+It comprises two directories: __`scripts`__ and __`data`__ (the contents of which should be self explanatory) and generates a __`data/outputs`__ folder with __`figures`__ and __`data`__ subdirectories.
 
 
 ## Installation
@@ -47,9 +47,9 @@ git clone https://github.com/CJREID/ST127_project.git
 cd ST127_project
 pwd
 ```
-Open the data_vis.R script in a text editor or RStudio and set the variable __`wrkdir`__ on line 18 to the output of __`pwd`__ above and save the script.
+Open the ST127_analyis.R script in a text editor or RStudio and set the variable __`wrkdir`__ on line 16 to the output of __`pwd`__ above and save the script.
 
-Run the data_vis.R script and watch your __`outputs`__ folder magically fill with goodies.
+Run the ST127_analyis.R script and your __`outputs`__ folder will populate with figures and tables.
 
 ## Outputs
 ### Figures
