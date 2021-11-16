@@ -1,0 +1,25 @@
+name	Mutation	Nucleotide change	Amino acid change	Resistance	PMID
+MD4_G10	23S r.2032G>C	G -> C	RNA mutations	Linezolid	-
+MVC486	gyrA p.D87G	GAC -> GGC	D -> G	Nalidixic acid,Ciprofloxacin	12654733
+MVC746	gyrA p.D87N	GAC -> AAC	D -> N	Nalidixic acid,Ciprofloxacin	12654733
+SRR10286270	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR10810139	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR11031167	ampC promoter n.-32T>A	T -> A	Promoter mutations	ampicillin,ampicillin+clavulanic acid,amoxicillin,amoxicillin+clavulanic acid,cefixime,cefotaxime,cefoxitin,ceftazidime,piperacillin	21653764
+SRR11341635	gyrA p.D87G	GAC -> GGC	D -> G	Nalidixic acid,Ciprofloxacin	12654733
+SRR11354616	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR11484511	ampC promoter n.-32T>A	T -> A	Promoter mutations	ampicillin,ampicillin+clavulanic acid,amoxicillin,amoxicillin+clavulanic acid,cefixime,cefotaxime,cefoxitin,ceftazidime,piperacillin	21653764
+SRR1314454	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR1314529	pmrB p.V161G	GTG -> GGG	V -> G	Colistin	25150146
+SRR6701896	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR6701896	gyrA p.D87G	GAC -> GGC	D -> G	Nalidixic acid,Ciprofloxacin	12654733
+SRR6701896	parC p.E84K	GAA -> AAA	E -> K	Nalidixic acid,Ciprofloxacin	8524852
+SRR7850962	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR8533911	gyrA p.D87N	GAC -> AAC	D -> N	Nalidixic acid,Ciprofloxacin	12654733
+SRR8541508	pmrB p.V161G	GTG -> GGG	V -> G	Colistin	25150146
+SRR8541560	gyrA p.D87N	GAC -> AAC	D -> N	Nalidixic acid,Ciprofloxacin	12654733
+SRR8728087	ampC promoter n.-32T>A	T -> A	Promoter mutations	ampicillin,ampicillin+clavulanic acid,amoxicillin,amoxicillin+clavulanic acid,cefixime,cefotaxime,cefoxitin,ceftazidime,piperacillin	21653764
+SRR8728090	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR8767387	gyrA p.D87Y	GAC -> TAC	D -> Y	Nalidixic acid,Ciprofloxacin	12654733
+SRR9160197	gyrA p.D87G	GAC -> GGC	D -> G	Nalidixic acid,Ciprofloxacin	12654733
+SRR9694238	gyrA p.S83L	TCG -> TTG	S -> L	Nalidixic acid,Ciprofloxacin	8891148
+SRR9973679	pmrB p.V161G	GTG -> GGG	V -> G	Colistin	25150146
