@@ -12,7 +12,8 @@ library(paletteer)
 
 ####-----SETUP-----####
 # SET WORKING DIRECTORY
-wrkdir <- "/Volumes/126451/WORK/Colleagues/Paarthiphan/ST127/revision/ST127_project/"
+## YOU NEED TO CHANGE THIS TO THE DIRECTORY YOU HAVE CLONED THE GITHUB REPOSITORY TO
+wrkdir <- ""
 setwd(wrkdir)
 
 # Define 'not in' function for subsetting
