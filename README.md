@@ -55,18 +55,18 @@ Run the ST127_analyis.R script and your __`outputs`__ folder will populate with 
 ### Figures
 1. Figure 1. Summary of geography and sources of collection
 2. Figure 2. Core gene maximum-likelihood phylogenetic tree with metadata (Legends manually edited for publication)
-3. Figure 3. Heatmap of low SNP distances between human and companion animal isolates
-4. Figure 4. pUTI89 heatmap visualisation (Exported in 2 parts; manually edited for publication)
-5. Figure 5. Comparison of antimicrobial resistance gene carriage in relation to pUTI89 and intI1 carriage
+3. Figure 3. Summary of clusters, sources and pUTI89-like plasmid carriage.
+4. Figure 4. Heatmap of low SNP distances between human and companion animal isolates
+5. Figure 5. pUTI89 heatmap visualisation (Exported in 2 parts; manually edited for publication)
+6. Figure 6. Comparison of antimicrobial resistance gene carriage in relation to pUTI89 and intI1 carriage
 
 ### Supplementary
 #### Tables
 1. Table S1. Metadata, accession numbers and gene screening results for 299 ST127 isolates used in this study
-2. Table S2. Integron co-carriage data; summary of assembly contigs containing the intI1 gene in conjunction with ARGs!
+2. Table S2. Integron co-carriage data; summary of assembly contigs containing the intI1 gene in conjunction with ARGs
 
 #### Figures
 1. Fig S1. Presence/absence of ARGs mapped to core gene phylogeny
 2. Fig S2. Presence/absence of VAGs mapped to core gene phylogeny
-3. Fig S3. Presence/absence of ARGs mapped to core gene phylogeny
-4. Fig S4. Visualisation of pUTI89 distribution by BAP clusters and isolation sources
+3. Fig S3. Presence/absence of plasmid-associated genes mapped to core gene phylogeny
 
