@@ -1,5 +1,5 @@
 # ST127
-Scripts to run analysis associated with 2021 ST127 manuscript
+Scripts to run analysis associated with the paper [Close genetic linkage between human and companion animal extraintestinal pathogenic Escherichia coli ST127](https://www.sciencedirect.com/science/article/pii/S2666517422000037/pdfft?md5=ae20e6005b82d0bdeac8c6621e005988&pid=1-s2.0-S2666517422000037-main.pdf) by Elankumaran *et al*, 2022
 
 ## Overview
 The following repository allows conscientious readers of the ST127 manuscript to reproduce all the data processing, statistics and figures presented in the paper.
