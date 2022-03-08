@@ -1,4 +1,4 @@
-# ST127_project
+# ST127
 Scripts to run analysis associated with 2021 ST127 manuscript
 
 ## Overview
